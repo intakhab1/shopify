@@ -1,4 +1,7 @@
 # shopify
+All in one Shopping app 
+
+Using Api : https://fakestoreapi.com/products
 
 Flutter project.
 
