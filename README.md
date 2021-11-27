@@ -3,6 +3,8 @@ All in one Shopping app
 
 Using Api : https://fakestoreapi.com/products
 
+YouTube video : https://youtu.be/k7wx7YgUO5A
+
 Integrated with Material UI
 Welcome , Login , Signup and Products List Screen
 
